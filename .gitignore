@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.npy
+*.pt
+data/
+results/*_best_weights.pt
+.ipynb_checkpoints/
